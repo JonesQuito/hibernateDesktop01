@@ -6,7 +6,7 @@ public class CriarTabelas {
 
 	public static void main(String[] args) {
 		
-		Persistence.createEntityManagerFactory("UnidadePU");
+            Persistence.createEntityManagerFactory("UnidadePU");
 
 	}
 
